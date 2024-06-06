@@ -1,2 +1,2 @@
 # PPTtst
-Oi, para jogar basta clicar na img.
+Hi, to play just click on the image.
